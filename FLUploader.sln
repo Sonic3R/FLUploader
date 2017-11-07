@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FLUploaderUI", "FLUploaderUI\FLUploaderUI.csproj", "{002A2CAE-77F7-4B33-8C98-F7D84F831F17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FLUploaderWebCore", "FLUploaderWebCore\FLUploaderWebCore.csproj", "{C250BF12-F50D-4167-8C97-9D594DCC0D89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{002A2CAE-77F7-4B33-8C98-F7D84F831F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{002A2CAE-77F7-4B33-8C98-F7D84F831F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{002A2CAE-77F7-4B33-8C98-F7D84F831F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{002A2CAE-77F7-4B33-8C98-F7D84F831F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C250BF12-F50D-4167-8C97-9D594DCC0D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C250BF12-F50D-4167-8C97-9D594DCC0D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C250BF12-F50D-4167-8C97-9D594DCC0D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C250BF12-F50D-4167-8C97-9D594DCC0D89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
